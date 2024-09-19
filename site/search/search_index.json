@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Documenta\u00e7\u00e3o com MkDocs","text":"<p>::: contrato.Vendas</p> <p>::: database.salvar_no_postgres</p>"}]}

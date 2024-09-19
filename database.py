@@ -13,6 +13,10 @@ DB_NAME = os.getenv('DB_NAME')
 DB_USER = os.getenv('DB_USER')
 DB_PASSWORD = os.getenv('DB_PASS')
 
+"""
+Função para salvar no PostgresSQL os dados de vendas
+"""
+
 #Função para salvar os dados validados no PostgreeSQL
 def salvar_no_postgres(dados: Vendas):
     try:
